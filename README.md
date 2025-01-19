@@ -1,16 +1,22 @@
-# re
+# M.W  
 
 A new Flutter project.
 
-## Getting Started
+**Habit Tracker App Description:**
 
-This project is a starting point for a Flutter application.
+Track your habits effortlessly with our **Habit Tracker** app! Designed for simplicity and efficiency, this app lets you add, manage, and monitor your daily habits with ease. Whether you’re building new habits or breaking old ones, this tool provides a clean, intuitive interface to keep you on track.
 
-A few resources to get you started if this is your first Flutter project:
+### **Features:**
+- **Add New Habits**: Create and customize habits to suit your goals.
+- **Track Progress**: Easily monitor your daily streaks and achievements.
+- **Offline Support**: Built with SQLite for reliable local storage—your data stays safe and accessible even without internet connectivity.
+- **Smooth Performance**: Powered by Flutter with clean architecture, ensuring maintainable and scalable code.
+- **State Management**: Uses the Provider package to manage app state efficiently.
+- **User-Friendly UI**: A polished, clean design for a seamless and enjoyable user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  [Apk dowenload] :https://github.com/Mohammed-Waheed-Mohammed-Fahmy/habit_tracker/tree/main/apk_files
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ![hapit trraker](https://github.com/user-attachments/assets/f3f9df57-07a4-4c5c-80f0-8f66a6812345)
+
+
+Stay consistent and achieve your goals with **Habit Tracker**—your perfect companion for a better you!
